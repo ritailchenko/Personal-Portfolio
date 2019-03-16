@@ -1,0 +1,22 @@
+.jumbotron {
+	background-image: url("../img/3.jpg");
+	margin-top: -10px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin: 0 auto;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-color: #545454;
+    background-position: center center;
+    height: 45vh;
+}
+
+img {
+	border: none;
+	padding: 0;
+}
+
+.earlyconcepts img {
+	margin-bottom: 1.5rem;
+}

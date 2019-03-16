@@ -1,0 +1,17 @@
+.jumbotron {
+	background-image: url("../img/12.jpg");
+	margin-top: -10px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin: 0 auto;
+    background-size: inherit;
+    background-position: center center;
+    height: 45vh;
+}
+
+.main img {
+	border: none;
+	padding: 0;
+}
+
